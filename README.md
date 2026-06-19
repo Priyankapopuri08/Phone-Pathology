@@ -11,7 +11,8 @@ The code supports reproducible analysis of perceptual media quality and system p
 **Usage in this study:** PEAQ is used to evaluate audio playback–capture quality across devices of the same smartphone model lineage. Scores are computed for paired reference–recorded signals under controlled distances, and intra-model differences are analyzed using average difference, win count, and paired statistical testing.
 
 **Notes:** PEAQ is a full-reference metric and requires time-aligned reference audio. Higher scores indicate better perceptual audio quality.
-Installation steps and scripts to execute are uploaded in https://github.com/Priyankapopuri08/SmartphoneQualityAnalysis/tree/main/PEAQ
+Installation steps and scripts to execute are uploaded in 
+[https://github.com/Priyankapopuri08/Phone-Pathology/tree/main/peaq]
 
 **OPVQ** 
 
