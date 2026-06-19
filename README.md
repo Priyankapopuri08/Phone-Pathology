@@ -31,7 +31,8 @@ Installation steps and scripts to execute are uploaded in
 **Usage in this study:** PESQ is applied to recorded podcast segments played and captured across devices. Intra-model comparisons are conducted using average differences, win counts, and paired statistical tests.
 
 **Notes:** PESQ is standardized by ITU-T (P.862) and is widely used for evaluating telephony and speech communication quality. Higher scores indicate better perceived speech quality.
-Installation steps and scripts to execute are uploaded in https://github.com/Priyankapopuri08/SmartphoneQualityAnalysis/tree/main/PESQ
+Installation steps and scripts to execute are uploaded in 
+[https://github.com/Priyankapopuri08/Phone-Pathology/tree/main/pesq]
 
 **NR-IQA**
 
