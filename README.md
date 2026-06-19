@@ -14,16 +14,6 @@ The code supports reproducible analysis of perceptual media quality and system p
 Installation steps and scripts to execute are uploaded in 
 [https://github.com/Priyankapopuri08/Phone-Pathology/tree/main/peaq]
 
-**OPVQ** 
-
-**Purpose:** OPVQ is a perceptual video quality metric implemented in the OpenVQ toolkit, designed to model human sensitivity to spatial and temporal video distortions.
-
-**Usage in this study:** OPVQ is used alongside VMAF to assess perceptual video degradation in screen recordings. Agreement between OPVQ and VMAF is analyzed to ensure robustness of observed intra-model quality trends.
-
-**Notes:** OPVQ is a full-reference metric. Using multiple perceptual metrics reduces the risk of conclusions driven by a single quality model.
-
-Installation steps and scripts to execute are uploaded in https://github.com/Priyankapopuri08/SmartphoneQualityAnalysis/tree/main/OPVQ
-
 **VMAF**
 
 **Purpose:** VMAF (Video Multimethod Assessment Fusion) predicts perceptual video quality by combining multiple elementary quality features through machine learning.
@@ -31,7 +21,8 @@ Installation steps and scripts to execute are uploaded in https://github.com/Pri
 **Usage in this study:** VMAF is applied to screen-recorded videos captured on used smartphones and compared against reference videos. Pairwise intra-model comparisons are performed using average score differences, win counts, and statistical significance testing.
 
 **Notes:** VMAF is a full-reference metric and requires spatial and temporal alignment between reference and degraded videos. Scores range from 0 to 100, with higher values indicating better quality.
-Installation steps and scripts to execute are uploaded in https://github.com/Priyankapopuri08/SmartphoneQualityAnalysis/tree/main/VMAF
+Installation steps and scripts to execute are uploaded in 
+[https://github.com/Priyankapopuri08/Phone-Pathology/tree/main/vmaf]
 
 **PESQ**
 
